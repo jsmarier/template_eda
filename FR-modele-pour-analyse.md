@@ -3,7 +3,7 @@
 **Prénom et nom de l'étudiant(e)**<br>
 **Présenté à Jean-Sébastien Marier**<br>
 
-# Projet de mi-session : Analyse exploratoire de données (AED)
+# Analyse exploratoire de données (AED) et proposition
 
 Utilisez un croisillon (`#`) pour créer un intertitre de niveau 1 comme celui-ci.
 
