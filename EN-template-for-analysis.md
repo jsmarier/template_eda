@@ -3,7 +3,7 @@
 **Student's First Name & Last Name**<br>
 **Presented to Jean-Sébastien Marier**<br>
 
-# Midterm Project: Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA) & Pitch
 
 Use one hashtag symbol (`#`) to create a level 1 heading like this one.
 
