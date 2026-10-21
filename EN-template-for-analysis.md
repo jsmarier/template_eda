@@ -22,11 +22,7 @@ Did you notice how to create a hyperlink? In Markdown, we put the clickable text
 
 And to create an unordered list, we simply put a star (`*`) before each item.
 
-## 1. Introduction
-
-Insert text here.
-
-## 2. Getting Data
+## 1. Getting Data
 
 Use two hashtag symbols (`##`) to create a level 2 heading like this one.
 
@@ -46,9 +42,9 @@ To include a screen capture, use the sample code below. Your images should be sa
 ```
 This also shows how to create an ordered list. Simply put `1.` before each item.
 
-## 3. Understanding Data
+## 2. Understanding Data
 
-### 3.1. VIMO Analysis
+### 2.1. VIMO Analysis
 
 Use three hashtag symbols (`###`) to create a level 3 heading like this one. Please follow this template when it comes to level 1 and level 2 headings. However, you can use level 3 headings as you see fit.
 
@@ -60,11 +56,11 @@ Support your claims by citing relevant sources. Please follow [APA guidelines fo
 
 As Cairo (2016) argues, a data visualization should be truthful...
 
-### 3.2. Cleaning Data
+### 2.2. Cleaning Data
 
 Insert text here.
 
-### 3.3. Analyzing Data
+### 2.3. Analyzing Data
 
 Insert text here.
 
@@ -78,15 +74,11 @@ Insert text here.
 ![](chart-screen-capture.png)<br>
 *Figure 3: This exploratory chart shows...*
 
-## 4. Potential Story
+## 3. Potential Story
 
 Insert text here.
 
-## 5. Conclusion
-
-Insert text here.
-
-## 6. References
+## 4. References
 
 Include a list of your references here. Please follow [APA](https://apastyle.apa.org/style-grammar-guidelines/references) or [MLA](https://www.mla.org/MLA-Style) guidelines for references. Hanging paragraphs aren't required though.
 
