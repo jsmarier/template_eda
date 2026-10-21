@@ -54,7 +54,7 @@ Support your claims by citing relevant sources. Please follow [APA guidelines fo
 
 **For example:**
 
-As Cairo (2016) argues, a data visualization should be truthful...
+As seen in Bounegru & Gray (2011), a data visualization should be clear...
 
 ### 2.2. Cleaning Data
 
