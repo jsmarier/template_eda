@@ -74,7 +74,7 @@ Insert text here.
 ![](chart-screen-capture.png)<br>
 *Figure 3: This exploratory chart shows...*
 
-## 3. Potential Story
+## 3. Delivering Data
 
 Insert text here.
 
